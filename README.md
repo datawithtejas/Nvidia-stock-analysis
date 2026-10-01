@@ -1,4 +1,4 @@
-Plaintext# NVIDIA Stock Return & Sentiment Analysis
+# NVIDIA Stock Return & Sentiment Analysis
 
 ## Project Overview
 This project conducts an empirical econometric analysis of NVIDIA Corporation’s (NVDA) daily stock returns. Utilizing Python and the `statsmodels` framework, the project tests whether daily stock returns can be predicted using 1-day lagged moves from key semiconductor supply chain partners—Taiwan Semiconductor Manufacturing Company (TSM) and ASML Holding (ASML)—alongside daily news sentiment scores. 
@@ -42,7 +42,7 @@ ASML_Lag1     -0.0661      0.067     -0.993      0.321      -0.197       0.065
 Sentiment      0.0119      0.007      1.612      0.107      -0.003       0.026
 ==============================================================================
 Omnibus:                       78.014   Durbin-Watson:                   2.275
-
+```
 ---
 
 ##  Technologies Used
